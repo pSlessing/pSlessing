@@ -80,7 +80,7 @@ A simple, procedural programming language for the original GameBoy, using ANTLR 
 - Unit, integration, and end to end testing have all been implemented
 - A fully working of Arkanoid has been implemented in PENGUIN
 
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/pSlessing/mobile-grade-tracker)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?style=flat-square&logo=github)](https://github.com/cs-25-sw-4-15/penguinlang)
 
 
 </td>
