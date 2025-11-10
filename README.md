@@ -145,7 +145,7 @@ A small CLI tool that automates some small, everyday tasks, saving a couple of s
 <td width="50%">
 
 ### ⌨ Go Text Editor
-**Technologies:** `Go` `Termbox`
+**Technologies:** `Go` `Tcell`
 
 A small text editor, implemented from the bottom up with Termbox, as a way to learn Go, and have a small incremental project
 
