@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a software engineering student from Denmark, currently in my fifth semester!</p>
+<p align="left">I'm a software engineering student from Denmark, currently in my sixth semester!</p>
 
 ###
 
